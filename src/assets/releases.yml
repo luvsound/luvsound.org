@@ -1,0 +1,921 @@
+releases:
+#    - cat_id: luv027
+#      release_date: 2017-10-01
+#      artist: Brent Gutzeit
+#      title: Pop Music
+#      tracks:
+#        - title: Pop Music
+#          length: 5:47
+#          flac: https://file.url.flac
+#          mp3: https://file.url.mp3
+#          ogg: https://file.url.ogg
+#          wav: https://file.url.wav
+
+#        - title: Slight Lappers
+#          length: 1:46
+
+#        - title: American Pop Music
+#          length: 8:04
+
+#        - title: I'll Burn That Bridge When I Get There
+#          length: 4:26
+
+#    - cat_id: luv026
+#      release_date: 2017-10-01
+#      artist: The Geodes
+#      title: Geodes
+#      tracks: 
+#        - title: Untitled
+#          length: 19:44
+#          mp3: https://archive.org/download/HeCanJogStop/01-he_can_jog-stop.mp3
+#          ogg: https://archive.org/download/HeCanJogStop/01-he_can_jog-stop.ogg
+#          waveform: https://archive.org/download/HeCanJogStop/01-he_can_jog-stop.png
+     
+#        - title: Untitled
+#          length: 19:36
+#          mp3: https://archive.org/download/HeCanJogStop/01-he_can_jog-stop.mp3
+#          ogg: https://archive.org/download/HeCanJogStop/01-he_can_jog-stop.ogg
+#          waveform: https://archive.org/download/HeCanJogStop/01-he_can_jog-stop.png
+#
+    - cat_id: luv026
+      artist: Various
+      release_date: 2010-08-10
+      title: LuvSound at Sugar Maple
+      cover: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/settingup.jpg
+      about: |
+        In August of 2010 six new and old LuvSounders gathered at the Sugar Maple in Milwaukee for a rousing evening of improvised electronic music. This was a first meeting for many of us, and the duos - the combinations were selected with chance operations - were mostly first-time collaborations. The night ended with a rawkus full group jam, and here are the vibrations to prove it.
+
+        This was the first of hopefully many such events, and we'll continue to share the results here. Enjoy!
+
+      tracks:
+        - title: Black Eagle Child
+          length: 8:47
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/01-Black-Eagle-Child-Solo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/01-Black-Eagle-Child-Solo.flac
+
+        - title: Jim Schoenecker
+          length: 10:30
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/02-Jim-Schoenecker-Solo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/02-Jim-Schoenecker-Solo.flac
+
+        - title: Jason Nanna
+          length: 11:03
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/03-Jason-Nanna-Solo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/03-Jason-Nanna-Solo.flac
+
+        - title: He Can Jog
+          length: 9:10
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/04-He-Can-Jog-Solo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/04-He-Can-Jog-Solo.flac
+
+        - title: Nomad Palace
+          length: 10:29
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/05-Nomad-Palace-Solo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/05-Nomad-Palace-Solo.flac
+
+        - title: Made of Oak
+          length: 14:13
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/06-Made-Of-Oak-Solo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/06-Made-Of-Oak-Solo.flac
+
+        - title: He Can Jog + Nomad Palace
+          length: 11:07
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/07-He-Can-Jog-Nomad-Palace-Duo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/07-He-Can-Jog-Nomad-Palace-Duo.flac
+
+        - title: Black Eagle Child + Jason Nanna
+          length: 9:33
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/08-Black-Eagle-Child-Jason-Nanna.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/08-Black-Eagle-Child-Jason-Nanna.flac
+
+        - title: Jim Schoenecker + Made of Oak
+          length: 14:02
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/09-Jim-Schoenecker-Made-Of-Oak-Duo.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/09-Jim-Schoenecker-Made-Of-Oak-Duo.flac
+
+        - title: Full Ensemble
+          length: 13:17
+          mp3: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/10-Full-Ensemble.mp3
+          flac: http://live.luvsound.org/recordings/sugarmaple-2010-08-10/10-Full-Ensemble.flac
+
+    - cat_id: luv023
+      artist: AllThatFall / Bryan Teoh / He Can Jog
+      title: An Evening of Difficult Music
+      release_date: 2010-03-09
+      cover: /static/luv023_cover.jpg
+      about: |
+        This is the third part of a four part improvised performance at McKeown's Books in New Orleans recorded in June of 2008.
+
+        The evening was a first meeting for long time Luvsounders Bryan Teoh (Always Tokyo) Kevin Gipson (AllThatFall) and Erik Schoster (He Can Jog)
+
+        This section of the performance was inspired by first meetings and old-and-new friendships. Most of the field recordings we used in the performance were recorded in New Orleans or on the Amtrak journey from NYC to NOLA including some from Open Sound New Orleans' Jacob Brancasi and Heather Booth.
+
+        This was part of the Difficult Music series at McKeown's Books and we're very grateful to Maggie McKeown for hosting the event and helping to bring us all together. If you're in the New Orleans area, the series is ongoing and well worth checking out: mckeownsbooks.com/events.html
+
+      tracks:
+        - title: An Evening of Difficult Music
+          length: 21:32
+          waveform: https://archive.org/download/luv023/PartThreeToNewOrleans-AnEveningOfDifficultMusicLiveAtMckeownsBooks.png
+          mp3: https://archive.org/download/luv023/PartThreeToNewOrleans-AnEveningOfDifficultMusicLiveAtMckeownsBooks.mp3
+          ogg: https://archive.org/download/luv023/PartThreeToNewOrleans-AnEveningOfDifficultMusicLiveAtMckeownsBooks.ogg
+          flac: https://archive.org/download/luv023/PartThreeToNewOrleans-AnEveningOfDifficultMusicLiveAtMckeownsBooks.flac
+          wav: https://archive.org/download/luv023/PartThreeToNewOrleans-AnEveningOfDifficultMusicLiveAtMckeownsBooks.wav
+
+
+    - cat_id: luv022
+      artist: The Oo-Ray
+      title: Magnifications
+      release_date: 2009-03-01
+      onesheet: https://archive.org/download/luv022/luv022_onesheet.pdf
+      about: |
+        Magnifications is a rumbling and gentle beast of exploded 
+        cello work that often sounds as much like the shimmering of 
+        an orchestra of cymbals as it does the vibrations of a cello 
+        string. Ted Laderas aka OO-Ray creates his sonic monsters with 
+        a studied combination of digital and analog processing techniques. 
+        The project is mostly improvised and then meticulously tempered 
+        in the studio - though both "Milky" and "Sfumato" are raw live 
+        recordings. The result of years of personal reinvention from his 
+        home base of Portland Oregon, Magnifications is a solid document 
+        of shoegaze magic and tightly layered electroacoustic goodness.
+
+        Following his tenure with electro band Ainu, Ted Laderas wanted 
+        a change of direction. "I want to drown the listener in a sea of 
+        sound. Distortion is so beautiful to me." A few years ago, he 
+        started taking cello lessons, and as he found his feet with the 
+        instrument he started to record, and eventually process. Over 
+        those years the OO-Ray was born.
+
+        -- <cite>Marc Weidenbaum</cite>
+
+      tracks:
+        - title: Slow Motion Death Scene
+          length: 4:16
+          waveform: https://archive.org/download/luv022/01_Slow_Motion_Death_Scene.png
+          mp3: https://archive.org/download/luv022/01_Slow_Motion_Death_Scene.mp3
+
+        - title: Milky (Live)
+          length: 4:04
+          waveform: https://archive.org/download/luv022/02_Milky_Live.png
+          mp3: https://archive.org/download/luv022/02_Milky_Live.mp3
+
+        - title: Eagre
+          length: 8:52
+          waveform: https://archive.org/download/luv022/03_Eagre.png
+          mp3: https://archive.org/download/luv022/03_Eagre.mp3
+
+        - title: If We Aren't Blind
+          length: 6:04
+          waveform: https://archive.org/download/luv022/04_If_We_Are_not_Blind.png
+          mp3: https://archive.org/download/luv022/04_If_We_Are_not_Blind.mp3
+
+        - title: Boat is Drunk (Remix for Adcbicycle)
+          length: 4:34
+          waveform: https://archive.org/download/luv022/05_Boat_is_Drunk_Remix_for_Adcbicycle.png
+          mp3: https://archive.org/download/luv022/05_Boat_is_Drunk_Remix_for_Adcbicycle.mp3
+
+        - title: Angostura
+          length: 8:14
+          waveform: https://archive.org/download/luv022/06_Angostura.png
+          mp3: https://archive.org/download/luv022/06_Angostura.mp3
+
+        - title: Sfumato (Live)
+          length: 5:58
+          waveform: https://archive.org/download/luv022/07_Sfumato_Live.png
+          mp3: https://archive.org/download/luv022/07_Sfumato_Live.mp3
+
+        - title: Downtown Pajama
+          length: 2:33
+          waveform: https://archive.org/download/luv022/08_Downtown_Pajama.png
+          mp3: https://archive.org/download/luv022/08_Downtown_Pajama.mp3
+
+    - cat_id: luv021
+      artist: Matthew Mullane
+      title: The Whole Moon Gleams in Every Pool
+      release_date: 2008-07-29
+      cover: https://archive.org/download/luv021/20070419_011.jpg
+      about: |
+        Searching excursions into the woods, poetry-to-frequency converting Max/MSP patches, and the appropriation of a university's bell tower p.a. system are just some of the myriad elements which comprise Matthew Mullane's "The Whole Moon Gleams in Every Pool." A studied work in the efferent and the afferent, Matthew's work seeks to explore the interface between the projection of sound and its audition.
+
+        Matthew Mullane is a student, sound artist, performing musician and writer currently living in Ohio. His sound work differs greatly from release to release while his written work focuses on aesthetics and art theory.
+
+      tracks:
+        - title: Tower 1
+          length: 2:26
+          waveform: https://archive.org/download/luv021/1.png
+          mp3: https://archive.org/download/luv021/1.mp3
+          ogg: https://archive.org/download/luv021/1.ogg
+          flac: https://archive.org/download/luv021/1.flac
+          wav: https://archive.org/download/luv021/1.wav
+
+        - title: Tower 2
+          length: 4:59
+          waveform: https://archive.org/download/luv021/2.png
+          mp3: https://archive.org/download/luv021/2.mp3
+          ogg: https://archive.org/download/luv021/2.ogg
+          flac: https://archive.org/download/luv021/2.flac
+          wav: https://archive.org/download/luv021/2.wav
+
+        - title: Tower 3
+          length: 3:41
+          waveform: https://archive.org/download/luv021/3.png
+          mp3: https://archive.org/download/luv021/3.mp3
+          ogg: https://archive.org/download/luv021/3.ogg
+          flac: https://archive.org/download/luv021/3.flac
+          wav: https://archive.org/download/luv021/3.wav
+
+        - title: Tower 4
+          length: 4:28
+          waveform: https://archive.org/download/luv021/4.png
+          mp3: https://archive.org/download/luv021/4.mp3
+          ogg: https://archive.org/download/luv021/4.ogg
+          flac: https://archive.org/download/luv021/4.flac
+          wav: https://archive.org/download/luv021/4.wav
+
+        - title: Tower 5
+          length: 6:10
+          waveform: https://archive.org/download/luv021/5.png
+          mp3: https://archive.org/download/luv021/5.mp3
+          ogg: https://archive.org/download/luv021/5.ogg
+          flac: https://archive.org/download/luv021/5.flac
+          wav: https://archive.org/download/luv021/5.wav
+
+        - title: Tower 6
+          length: 5:51
+          waveform: https://archive.org/download/luv021/6.png
+          mp3: https://archive.org/download/luv021/6.mp3
+          ogg: https://archive.org/download/luv021/6.ogg
+          flac: https://archive.org/download/luv021/6.flac
+          wav: https://archive.org/download/luv021/6.wav
+
+        - title: Adam, I
+          length: 3:45
+          waveform: https://archive.org/download/luv021/adami.png
+          mp3: https://archive.org/download/luv021/adami.mp3
+          ogg: https://archive.org/download/luv021/adami.ogg
+          flac: https://archive.org/download/luv021/adami.flac
+          wav: https://archive.org/download/luv021/adami.wav
+
+        - title: Broken, Break
+          length: 3:09
+          waveform: https://archive.org/download/luv021/brokenbreak.png
+          mp3: https://archive.org/download/luv021/brokenbreak.mp3
+          ogg: https://archive.org/download/luv021/brokenbreak.ogg
+          flac: https://archive.org/download/luv021/brokenbreak.flac
+          wav: https://archive.org/download/luv021/brokenbreak.wav
+
+        - title: Moment, Absence
+          length: 3:25
+          waveform: https://archive.org/download/luv021/momentabsence.png
+          mp3: https://archive.org/download/luv021/momentabsence.mp3
+          ogg: https://archive.org/download/luv021/momentabsence.ogg
+          flac: https://archive.org/download/luv021/momentabsence.flac
+          wav: https://archive.org/download/luv021/momentabsence.wav
+
+        - title: Outside, In
+          length: 3:20
+          waveform: https://archive.org/download/luv021/outsidein.png
+          mp3: https://archive.org/download/luv021/outsidein.mp3
+          ogg: https://archive.org/download/luv021/outsidein.ogg
+          flac: https://archive.org/download/luv021/outsidein.flac
+          wav: https://archive.org/download/luv021/outsidein.wav
+
+    - cat_id: luv020
+      artist: Ian D Hawgood
+      title: Tents and Hills
+      release_date: 2008-05-25
+      cover: /static/luv020_cover.jpg
+      about: |
+        ian d. hawgood is a musician and teacher from tokyo, by way of oxford. essentially deaf until the age of ten, he felt and watched his way through childhood piano lessons. his work is still informed by that reaching, and today his process is focused on holding onto the myriad glimmers of landscape and place. 3-track portable in hand, he collects as many sounds as possible as he travels between london and tokyo.
+      tracks:
+        - title: October
+          length: 6:52
+          waveform: https://archive.org/download/luv020/01October.png
+          mp3: https://archive.org/download/luv020/01October.mp3
+          ogg: https://archive.org/download/luv020/01October.ogg
+          wav: https://archive.org/download/luv020/01October.wav
+          flac: https://archive.org/download/luv020/01October.flac
+
+        - title: No Clouds
+          length: 4:54
+          waveform: https://archive.org/download/luv020/02NoClouds.png
+          flac: https://archive.org/download/luv020/02NoClouds.flac
+          mp3: https://archive.org/download/luv020/02NoClouds.mp3
+          ogg: https://archive.org/download/luv020/02NoClouds.ogg
+          wav: https://archive.org/download/luv020/02NoClouds.wav
+
+        - title: Wake Up Mountain
+          length: 2:40
+          waveform: https://archive.org/download/luv020/03WakeUpMountain.png
+          flac: https://archive.org/download/luv020/03WakeUpMountain.flac
+          mp3: https://archive.org/download/luv020/03WakeUpMountain.mp3
+          ogg: https://archive.org/download/luv020/03WakeUpMountain.ogg
+          wav: https://archive.org/download/luv020/03WakeUpMountain.wav
+
+        - title: Parasol
+          length: 4:32
+          waveform: https://archive.org/download/luv020/04Parasol.png
+          flac: https://archive.org/download/luv020/04Parasol.flac
+          mp3: https://archive.org/download/luv020/04Parasol.mp3
+          ogg: https://archive.org/download/luv020/04Parasol.ogg
+          wav: https://archive.org/download/luv020/04Parasol.wav
+
+    - cat_id: luv019
+      artist: Various
+      title: Remakes of Lara
+      release_date: 2008-01-24
+      about: |
+        remakes of lara is eight reworkings of lara brodsky's piece for voice and loop pedal, offering the mandala. 
+        nearly a year ago we approached lara about centering a luvsound project around her piece. a few seasons later, 
+        the work has been put through eight different reimaginings, including one by lara herself. we're incredibly 
+        excited with the results. each remake explores the source material from a different and interesting angle, 
+        exploding the original into a nearly hour long meditiation. please brew a pot of tea, find a comfortable spot, and enjoy. 
+
+      tracks: 
+        - title: Lara Brodsky - Offering The Mandala
+          length: 7:41
+          waveform: https://archive.org/download/luv019/OfferingtheMandala.png
+          mp3: https://archive.org/download/luv019/OfferingtheMandala.mp3
+          flac: https://archive.org/download/luv019/OfferingtheMandala.flac
+          ogg: https://archive.org/download/luv019/OfferingtheMandala.ogg
+          wav: https://archive.org/download/luv019/OfferingtheMandala.wav
+
+        - title: Tsukimono - Voice Worn Path
+          length: 3:55
+          waveform: https://archive.org/download/luv019/VoiceWornPath.png
+          mp3: https://archive.org/download/luv019/VoiceWornPath.mp3
+          flac: https://archive.org/download/luv019/VoiceWornPath.flac
+          ogg: https://archive.org/download/luv019/VoiceWornPath.ogg
+          wav: https://archive.org/download/luv019/VoiceWornPath.wav
+
+        - title: Bryan Teoh - Northwoods
+          length: 4:08
+          waveform: https://ia600207.us.archive.org/9/items/luv019/Northwoods.png
+          mp3: https://ia600207.us.archive.org/9/items/luv019/Northwoods.mp3
+          flac: https://ia600207.us.archive.org/9/items/luv019/Northwoods.flac
+          ogg: https://ia600207.us.archive.org/9/items/luv019/Northwoods.ogg
+          wav: https://ia600207.us.archive.org/9/items/luv019/Northwoods.wav
+
+        - title: He Can Jog - Little Organ Book
+          length: 4:16
+          waveform: https://archive.org/download/luv019/LittleOrganBook.png
+          mp3: https://archive.org/download/luv019/LittleOrganBook.mp3
+          flac: https://archive.org/download/luv019/LittleOrganBook.flac
+          ogg: https://archive.org/download/luv019/LittleOrganBook.ogg
+          wav: https://archive.org/download/luv019/LittleOrganBook.wav
+
+        - title: Stephan Mathieu - Bresson, Robert
+          length: 6:45
+          waveform: https://archive.org/download/luv019/BressonRobert.png
+          mp3: https://archive.org/download/luv019/BressonRobert.mp3
+          flac: https://archive.org/download/luv019/BressonRobert.flac
+          ogg: https://archive.org/download/luv019/BressonRobert.ogg
+          wav: https://archive.org/download/luv019/BressonRobert.wav
+
+        - title: Nomad Palace - Visiting The Field
+          length: 4:05
+          waveform: https://archive.org/download/luv019/VisitingtheField.png
+          mp3: https://archive.org/download/luv019/VisitingtheField.mp3
+          flac: https://archive.org/download/luv019/VisitingtheField.flac
+          ogg: https://archive.org/download/luv019/VisitingtheField.ogg
+          wav: https://archive.org/download/luv019/VisitingtheField.wav
+
+        - title: allthatfall - Meaning To Free
+          length: 4:10
+          waveform: https://archive.org/download/luv019/meaningtofree.png
+          mp3: https://archive.org/download/luv019/meaningtofree.mp3
+          flac: https://archive.org/download/luv019/meaningtofree.flac
+          ogg: https://archive.org/download/luv019/meaningtofree.ogg
+          wav: https://archive.org/download/luv019/meaningtofree.wav
+
+        - title: Implex Grace - Akasha
+          length: 8:27
+          waveform: https://archive.org/download/luv019/Akasha.png
+          mp3: https://archive.org/download/luv019/Akasha.mp3
+          flac: https://archive.org/download/luv019/Akasha.flac
+          ogg: https://archive.org/download/luv019/Akasha.ogg
+          wav: https://archive.org/download/luv019/Akasha.wav
+
+        - title: Lara Brodsky - Those Who Whisper With Our Breath
+          length: 6:12
+          waveform: https://archive.org/download/luv019/thosewhowhisper.png
+          mp3: https://archive.org/download/luv019/thosewhowhisper.mp3
+          flac: https://archive.org/download/luv019/thosewhowhisper.flac
+          ogg: https://archive.org/download/luv019/thosewhowhisper.ogg
+          wav: https://archive.org/download/luv019/thosewhowhisper.wav
+
+    - cat_id: luv013
+      artist: Paul Feyertag
+      title: Suburban Décollage
+      release_date: 2007-04-21
+      tracks:
+        - title: Contrary Motion
+          length: 2:44
+          waveform: https://archive.org/download/luv013/luv013-01.png
+          mp3: https://archive.org/download/luv013/luv013-01.mp3
+          ogg: https://archive.org/download/luv013/luv013-01.ogg
+          aif: https://archive.org/download/luv013/luv013-01.aif
+
+        - title: Drone Musing
+          length: 1:31
+          waveform: https://archive.org/download/luv013/luv013-02.png
+          mp3: https://archive.org/download/luv013/luv013-02.mp3
+          ogg: https://archive.org/download/luv013/luv013-02.ogg
+          aif: https://archive.org/download/luv013/luv013-02.aif
+
+        - title: Ostinato
+          length: 7:55
+          waveform: https://archive.org/download/luv013/luv013-03.png
+          mp3: https://archive.org/download/luv013/luv013-03.mp3
+          ogg: https://archive.org/download/luv013/luv013-03.ogg
+          aif: https://archive.org/download/luv013/luv013-03.aif
+
+        - title: Four Irregular Shapes
+          length: 8:06
+          waveform: https://archive.org/download/luv013/luv013-04.png
+          mp3: https://archive.org/download/luv013/luv013-04.mp3
+          ogg: https://archive.org/download/luv013/luv013-04.ogg
+          flac: https://archive.org/download/luv013/luv013-04.flac
+          wav: https://archive.org/download/luv013/luv013-04.wav
+
+    - cat_id: luv012
+      artist: Inlets
+      title: Vestibule EP
+      cover: https://archive.org/download/mbid-2a89dd92-4487-437d-8201-b193f3b97de5/mbid-2a89dd92-4487-437d-8201-b193f3b97de5-1702707534.jpg
+      release_date: 2006-11-22
+      license: CC-BY-NC-SA
+      about: |
+            Sebastian Krueger of Inlets just needs a little room. Growing up in a large prairie-style 
+            home in Madison, Wisconsin, he became possessed with a certain notion of infinite space. 
+            His method is compact and intimate - a solitary Shure microphone details the puff of a 
+            clarinet as closely as reverberations in the creases of his pillow - but these bedroom 
+            recordings sprawl with occluded heartfelt colors and shimmer with the accidents of 
+            expansion. Here, whole conversations bloom and senesce in quick moments between notes; 
+            single hushed voices persist and then suddenly are buttressed by myriad more. This is 
+            music that riots and rushes in the world of multi-track recording software, but which 
+            still retains a terse narrative course and an ear to beautiful detail.
+
+            Apart from Inlets, Sebastian enjoys the privilege of playing in My Brightest Diamond; 
+            supporting Shara Worden with guitars, clarinets, bells and falsetto. He contributes to 
+            her forthcoming record A Thousand Shark's Teeth. 
+
+      credits: |
+            All music by Sebastian Krueger with:
+            Marla Hansen - Viola on See her, Pictures, and Decks. Voice on See her.
+            Sam Bair - Trap kit and drum engineering on Pictures, Sunfed, Effigy.
+            Nathan Lithgow - Electric bass on Sunfed, Effigy.
+            Brett Sroka - Trombone on See her, and Sunfed.
+            and special assistance from Brandon Krueger, Shara Worden, Erik Schoster, Kevin Gipson.
+
+      tracks:
+        - title: Pictures of Trees
+          length: 4:56
+          flac: https://archive.org/download/luv012/luv012-01.flac
+          mp3: https://archive.org/download/luv012/luv012-01.mp3
+          ogg: https://archive.org/download/luv012/luv012-01.ogg
+          wav: https://archive.org/download/luv012/luv012-01.wav
+          waveform: https://archive.org/download/luv012/luv012-01.png
+
+        - title: Decks, Up and Above
+          length: 5:09
+          flac: https://archive.org/download/luv012/luv012-02.flac
+          mp3: https://archive.org/download/luv012/luv012-02.mp3
+          ogg: https://archive.org/download/luv012/luv012-02.ogg
+          wav: https://archive.org/download/luv012/luv012-02.wav
+          waveform: https://archive.org/download/luv012/luv012-02.png
+
+        - title: Straphanger
+          length: 44
+          flac: https://archive.org/download/luv012/luv012-03.flac
+          mp3: https://archive.org/download/luv012/luv012-03.mp3
+          ogg: https://archive.org/download/luv012/luv012-03.ogg
+          wav: https://archive.org/download/luv012/luv012-03.wav
+          waveform: https://archive.org/download/luv012/luv012-03.png
+
+        - title: See Her, Seer
+          length: 4:01
+          flac: https://archive.org/download/luv012/luv012-04.flac
+          mp3: https://archive.org/download/luv012/luv012-04.mp3
+          ogg: https://archive.org/download/luv012/luv012-04.ogg
+          wav: https://archive.org/download/luv012/luv012-04.wav
+          waveform: https://archive.org/download/luv012/luv012-04.png
+
+        - title: Roots on Sidewalks
+          length: 4:41
+          flac: https://archive.org/download/luv012/luv012-05.flac
+          mp3: https://archive.org/download/luv012/luv012-05.mp3
+          ogg: https://archive.org/download/luv012/luv012-05.ogg
+          wav: https://archive.org/download/luv012/luv012-05.wav
+          waveform: https://archive.org/download/luv012/luv012-05.png
+
+        - title: Threads
+          length: 4:53
+          flac: https://archive.org/download/luv012/luv012-06.flac
+          mp3: https://archive.org/download/luv012/luv012-06.mp3
+          ogg: https://archive.org/download/luv012/luv012-06.ogg
+          wav: https://archive.org/download/luv012/luv012-06.wav
+          waveform: https://archive.org/download/luv012/luv012-06.png
+
+        - title: Sunfed Shapes
+          length: 3:33
+          flac: https://archive.org/download/luv012/luv012-07.flac
+          mp3: https://archive.org/download/luv012/luv012-07.mp3
+          ogg: https://archive.org/download/luv012/luv012-07.ogg
+          wav: https://archive.org/download/luv012/luv012-07.wav
+          waveform: https://archive.org/download/luv012/luv012-07.png
+
+        - title: You Are an Effigy
+          length: 2:59
+          flac: https://archive.org/download/luv012/luv012-08.flac
+          mp3: https://archive.org/download/luv012/luv012-08.mp3
+          ogg: https://archive.org/download/luv012/luv012-08.ogg
+          wav: https://archive.org/download/luv012/luv012-08.wav
+          waveform: https://archive.org/download/luv012/luv012-08.png
+
+    - cat_id: luv011a
+      artist: Various
+      title: Summer Gate
+      release_date: 2006-07-14
+      about: |
+        Part one of Summer Gate / Sun Made of Gave, a two part compilation featuring 
+        contributions from OPN, Rain Cloud, 
+        Mattin, Effacer, Tsukimono, Sleeps in Oysters, 
+        Cremaster, Gregg Kowalsky, Bryan Teoh, Jeph Jerman, 
+        Muninn, Nomad Palace, Implex Grace, AllThatFall, 
+        Inlets, Ingrid, Ryan Francesconi, and Bryan Teoh.
+
+      tracks:
+        - title: OPN - Coral Reefs
+          length: 4:08
+          waveform: https://archive.org/download/luv011a-mp3/luv011-1-01.png
+          mp3: https://archive.org/download/luv011a-mp3/luv011-1-01.mp3
+          flac: https://archive.org/download/luv011a-flac/Luv011-1-01.flac
+
+        - title: Rain Cloud - Cloud Surprise
+          length: 6:36
+          waveform: https://archive.org/download/luv011a-mp3/luv011-1-02.png
+          mp3: https://archive.org/download/luv011a-mp3/luv011-1-02.mp3
+          flac: https://archive.org/download/luv011a-flac/Luv011-1-02.flac
+
+        - title: Mattin - Injections of Abjection
+          length: 1:53
+          waveform: https://archive.org/download/luv011a-mp3/luv011-1-03.png
+          mp3: https://archive.org/download/luv011a-mp3/luv011-1-03.mp3
+          flac: https://archive.org/download/luv011a-flac/Luv011-1-03.flac
+
+        - title: Effacer - Murmur
+          length: 4:37
+          waveform: https://archive.org/download/luv011a-mp3/luv011-1-04.png
+          mp3: https://archive.org/download/luv011a-mp3/luv011-1-04.mp3
+          flac: https://archive.org/download/luv011a-flac/Luv011-1-04.flac
+
+
+        - title: Tsukimono - Sing it to me, Sing it to me like you sang it to me
+          length: 9:04
+          waveform: https://archive.org/download/luv011a-mp3/luv011-1-05.png
+          mp3: https://archive.org/download/luv011a-mp3/luv011-1-05.mp3
+          flac: https://archive.org/download/luv011a-flac/Luv011-1-05.flac
+
+        - title: Sleeps in Oysters - Sea Flowers Blossom
+          length: 4:35
+          waveform: https://archive.org/download/luv011a-mp3/luv011-1-06.png
+          mp3: https://archive.org/download/luv011a-mp3/luv011-1-06.mp3
+          flac: https://archive.org/download/luv011a-flac/Luv011-1-06.flac
+
+        - title: Cremaster - Spring Live
+          length: 26:35
+          waveform: https://archive.org/download/luv011a-mp3/luv011-1-07.png
+          mp3: https://archive.org/download/luv011a-mp3/luv011-1-07.mp3
+          flac: https://archive.org/download/luv011a-flac/Luv011-1-07.flac
+
+    - cat_id: luv010
+      artist: Benjamin J Mansavage Klein
+      title: A Hymn To Zoltan Abbassid
+      about: |
+        A Hymn to Zoltan Abbassid is a dense and spectral tuba-laptop drone, maybe in the tradition of Tony Conrad. Benjamin's tuba cuts deep and smothers - partials ringing out like decades old tape noise. The source recordings for this piece were taken from an improvisation in Amsterdam earlier in the year. Mastered at PanicStudios by John McCaig.
+
+        Benjamin J Mansavage Klein grew up in Sheboygan, Wisconsin attending Catholic Mass on Saturday nights and his father's Protestant church service on Sunday morning. It makes sense then that Benjamin identifies the best with hymns sung by warbly old church ladies accompanied by out of tune pianos. The Sheboygan county area is best known for its golf, bratwurst, and toilet industry; Benjamin is most familiar with the last of these, spending a number of summers manufacturing toilet seats for the Bemis Company, and he admits that this has lead to an industrial tinge on his ear. A member of the improv group ICELU (luv004) Benjamin tries to explore everything you are not supposed to do with a tuba. He currently resides in a transitive state, traveling abroad from August 1, 2005 to August 1, 2006.
+      tracks:
+        - title: A Hymn To Zoltan Abbassid
+          length: 24:33
+          waveform: https://archive.org/download/luv010/luv010-hymn_spectrogram.png
+          mp3: https://archive.org/download/luv010/luv010-hymn.mp3
+          flac: https://archive.org/download/luv010/luv010-hymn.flac
+          ogg: https://archive.org/download/luv010/luv010-hymn.ogg
+
+    - cat_id: luv009
+      artist: Stephane Leonard
+      title: TRi
+      cover: https://archive.org/download/luv009/tricover.jpg
+      about: |
+            LuvSound is pleased to announce this carefully sculpted ep from Berlin's Stephane Leonard
+
+            TRi is all about connecting loose ends.
+            In between spheric and dreamlike soundscapes up to the harsh cut up
+            music concrete, pieces of field recordings taken from all over the
+            globe emerge. Stephane Leonard´s music creates a unique atmosphere that
+            immediantly draws the attention of the listener. Out of a self coded
+            max-msp software, a microphone and a small selection of external sound
+            sources small sensitive universes stream together. While listening they
+            expand further into the realms of imagination and thus take precise
+            looks at the nature of the world around us. With the perfectionists
+            love to detail, Stephane's compositions build bridges which hold for
+            even the most lost of characters.
+
+            Stephane Leonard was born in 1979 in Berlin, Germany. After beginning
+            his studies in philosophy and art-history in 2001 at the
+            Humboldt-University in Berlin, he studied Fine Arts at the University
+            of the Arts in Bremen for 4 years. Being a student of the artist Paco
+            Knöller, a former student of well known german artist Joseph Beuys,
+            Stephane's focus has been drawn into various directions of artistic
+            expression. By trying to experience the arts from various different
+            perspectives he has created large scale drawings and paintings,
+            illustrations for cd covers, numerous short & experimental films/videos
+            as well as music videos. As a musician and composer, Stephane has
+            written and recorded music since 1995. The different ways of
+            expressions and art forms are mutually conditional and inspiring the
+            influence of one another.
+
+            Stephane Leonard is actively involved in the contemporary art and
+            music scene in Berlin and Bremen, performing with improv groups
+            JuliJuni, Leo Mars Ensemble and plastic doll. He also collaborates with
+            various bands, video artists, filmmakers and solo performers
+            (dis.playce, Seidenmatt, Marcel Türkowsky, Claudio Pfeifer). Moreover
+            he is a member of the naiv super artist collective that publishes and
+            promotes modern composers, adventurous musicians and the naivsuperFilm
+            collective.
+
+            His work has been shown in exhibitions in Berlin, Hamburg, Bremen,
+            Neubrandenburg, Vienna, Zürich, Massachusetts and Bangkok. Stephane
+            lives and works in Berlin, Brooklyn and Bremen.
+      tracks:
+        - title: trails 2
+          length: 10:27
+          mp3: https://archive.org/download/luv009/01-sl-trails.mp3
+
+        - title: trockenschwimmen
+          length: 5:40
+          mp3: https://archive.org/download/luv009/02-sl-trockenschwimmen.mp3
+
+        - title: kreis stueck
+          length: 3:07
+          mp3: https://archive.org/download/luv009/03-sl-kreisstueck.mp3
+
+    - cat_id: luv008
+      artist: HelloSpiral
+      title: HelloSpiral
+      release_date: 2006-02-01
+      about: |
+        We're very happy to announce the debut solo recording from 
+        Italian Max/MSP maverick, Hellospiral. 
+
+        Born in Italy, where he lives and works, Hellospiral is Giacomo 
+        Governatori, a sociologist/guitarist. In 1995 he was the guitar 
+        hero of his block, in 1999 he founded a post-punk-noise band 
+        named "Edible Woman" whose CD "Spare/me calf" came out in 2001. 
+        At the same time he devotes himself to electronic composition 
+        alternating his passion for melody and for noises, still 
+        uncertain of what attracts him more. Equally influenced by 
+        Gilles Deleuze and Brian Wilson, Hellospiral explores the 
+        pop/avantgarde dialectics hoping never to arrive at a proper 
+        synthesis.
+
+        The EP also features remixes by LuvSound regulars 
+        Bryan Teoh and He Can Jog.
+
+      tracks:
+        - title: sgavidda
+          length: 4:00
+          mp3: https://archive.org/download/luv008/luv008_01_Sgavidda.mp3
+          waveform: https://archive.org/download/luv008/luv008_01_Sgavidda.png
+
+        - title: smoke & gift
+          length: 2:46
+          mp3: https://archive.org/download/luv008/luv008_02_smoke_gift.mp3
+          waveform: https://archive.org/download/luv008/luv008_02_smoke_gift.png
+
+        - title: ensaio sobre a cegueira
+          length: 3:00
+          mp3: https://archive.org/download/luv008/luv008_03_Ensaio_sobre_a_cegueira.mp3
+          waveform: https://archive.org/download/luv008/luv008_03_Ensaio_sobre_a_cegueira.png
+
+        - title: seccia (ensaio pt.2)
+          length: 3:30
+          mp3: https://archive.org/download/luv008/luv008_04_seccia_ensaio_pt_2.mp3
+          waveform: https://archive.org/download/luv008/luv008_04_seccia_ensaio_pt_2.png
+
+        - title: seccia (remix by he can jog)
+          length: 7:16
+          mp3: https://archive.org/download/luv008/luv008_05_seccia_remix_by_he_can_jog.mp3
+          waveform: https://archive.org/download/luv008/luv008_05_seccia_remix_by_he_can_jog.png
+
+        - title: sgavidda (remix by bryan teoh)
+          length: 3:00
+          mp3: https://archive.org/download/luv008/luv008_06_Sgavidda_Remix_by_Bryan_Teoh.mp3
+          waveform: https://archive.org/download/luv008/luv008_06_Sgavidda_Remix_by_Bryan_Teoh.png
+
+    - cat_id: luv007
+      artist: marcoll / dis.playce
+      title: split ep
+      release_date: 2006-02-01
+      cover: https://archive.org/download/luv007/cover.jpg
+      about: |
+        Luv is elated to release this split ep between Maximilian 
+        Marcoll and his collaborative project with Hannes Galette 
+        Seidl called Dis.Playce. The EP begins with Marcoll exploding 
+        the sounds of his body into a digital landscape of otherness - 
+        and Dis.Playce rounds the release out with a live remix of 
+        their recent full length on NaivSuper. Enjoy!
+
+      tracks:
+        - title: Maximillian Marcoll - Impulskorper I
+          length: 5:12
+          mp3: https://archive.org/download/luv007/01marcoll.mp3
+          waveform: https://archive.org/download/luv007/01marcoll.png
+
+        - title: dis.playce - RMIX (live)
+          length: 14:03
+          mp3: https://archive.org/download/luv007/02displayce.mp3
+          waveform: https://archive.org/download/luv007/02displayce.png
+
+    - cat_id: luv006
+      artist: Bryan Teoh
+      title: Piano Drone Take 2
+      release_date: 2006-01-01
+      cover: https://archive.org/download/luv006/luv006large.jpg
+      about: |
+        A fifteen minute exercise in blissful and tortured improvisation 
+        for piano and laptop is the first solo luvsound contribution 
+            from Wisconsin's Bryan Teoh (also a member of ICELU). 
+            Bryan's primary instrument is guitar, but it's clear he 
+            operates just as well striking strings as he does plucking 
+            them. Bones break, strings vibrate, on a landscape.
+
+            http://www.bryanteoh.com
+
+      tracks:
+        - title: piano drone take 2 (10-6-05)
+          length: 14:52
+          mp3: https://archive.org/download/luv006/pianodrone2.mp3
+          waveform: https://archive.org/download/luv006/pianodrone2.png
+
+    - cat_id: luv005
+      artist: allthatfall
+      title: hopecrash
+      release_date: 2005-04-01
+      cover: https://archive.org/download/luv005/luv005large.jpg
+      about: |
+        kevin gipson (allthatfall) has a way with tiny sounds. his samples 
+        sometimes flow and sometimes fight - guitars crashing through 
+        a quintet of humming radiators or maybe the fey voices of 
+        children and passersby. it's probably because he sometimes 
+        records as panda kommander that i can't shake the image of 
+        monochrome figures of panda bears bubbling out of his 
+        synthesizers like so many angled bleeps and crackles... 
+        pandacore!
+
+      tracks:
+        - title: i missed you all week
+          length: 2:35
+          mp3: https://archive.org/download/luv005/allthatfall1.mp3
+          waveform: https://archive.org/download/luv005/allthatfall1.png
+
+        - title: fall break
+          length: 3:29
+          mp3: https://archive.org/download/luv005/allthatfall2.mp3
+          waveform: https://archive.org/download/luv005/allthatfall2.png
+
+        - title: we live outside
+          length: 4:40
+          mp3: https://archive.org/download/luv005/allthatfall3.mp3
+          waveform: https://archive.org/download/luv005/allthatfall3.png
+
+        - title: for amanda
+          length: 2:47
+          mp3: https://archive.org/download/luv005/allthatfall4.mp3
+          waveform: https://archive.org/download/luv005/allthatfall4.png
+
+        - title: the endings of songs
+          length: 2:45
+          mp3: https://archive.org/download/luv005/allthatfall5.mp3
+          waveform: https://archive.org/download/luv005/allthatfall5.png
+
+        - title: hopecrash
+          length: 5:33
+          mp3: https://archive.org/download/luv005/allthatfall6.mp3
+          waveform: https://archive.org/download/luv005/allthatfall6.png
+
+
+
+
+
+    - cat_id: luv004
+      artist: ICELU
+      title: Live at Riverview Lounge
+      release_date: 2005-03-01
+      cover: https://archive.org/download/luv004/luv004large.jpg
+      about: |
+        ICELU's music lies somewhere between the vague orbits of 
+        european free improvisation, dada, and ambient microsound. 
+        Catchy categories aside, the golden brown bake of the midwest 
+        is what really makes this music special to me. There's a 
+        playful seriousness to ICELU that seems indebted to their 
+        Wisconsin dispositions - harsh noise can be giggled away, 
+        and impossibly fragile soundscapes feel like a familiar 
+        handshake. This isn't music for the recital hall. It's music 
+        for armchairs, couches, and new friends.
+
+      credits: |
+        ben klein: amplified tuba / contact microphones / electric guitar / accordion
+        bryan teoh: electric guitar / laptop / guitar synth
+        reid stratton: amplified baritone / laptop
+        jonathon mt roberts: extended voice
+
+      tracks:
+        - title: untitled 1
+          length: 4:58
+          mp3: https://archive.org/download/luv004/icelu1.mp3
+          waveform: https://archive.org/download/luv004/icelu1.png
+
+        - title: untitled 2
+          length: 9:42
+          mp3: https://archive.org/download/luv004/icelu2.mp3
+          waveform: https://archive.org/download/luv004/icelu2.png
+
+        - title: untitled 3
+          length: 1:35
+          mp3: https://archive.org/download/luv004/icelu3.mp3
+          waveform: https://archive.org/download/luv004/icelu3.png
+
+        - title: untitled 4 
+          length: 7:00
+          mp3: https://archive.org/download/luv004/icelu4.mp3
+          waveform: https://archive.org/download/luv004/icelu4.png
+
+        - title: untitled 5
+          length: 5:12
+          mp3: https://archive.org/download/luv004/icelu5.mp3
+          waveform: https://archive.org/download/luv004/icelu5.png
+
+        - title: untitled 6
+          length: 7:16
+          mp3: https://archive.org/download/luv004/icelu6.mp3
+          waveform: https://archive.org/download/luv004/icelu6.png
+
+        - title: untitled 7
+          length: 8:28
+          mp3: https://archive.org/download/luv004/icelu7.mp3
+          waveform: https://archive.org/download/luv004/icelu7.png
+
+
+    - cat_id: luv003
+      artist: Beliefmask
+      title: Might Well Have Tried
+      release_date: 2005-02-01
+      cover: https://archive.org/download/luv003/luv003large.jpg
+      about: |
+        Computer music by Beliefmask (aka Nybbl) transcribed to mp3 
+        from audiocassette with images set in a flash videoette by 
+        Curet A.
+
+      tracks:
+        - title: Might Well Have Tried
+          length: 4:55
+          mp3: https://archive.org/download/luv003/beliefmask.mp3
+          waveform: https://archive.org/download/luv003/beliefmask.png
+
+    - cat_id: luv002
+      artist: Erik Schoster
+      title: Improvisation on a Saturday Night After a Rainstorm
+      release_date: 2005-01-01
+      cover: https://archive.org/download/luv002/luv002large.jpg
+      about: |
+        No-input mixing board and trite poetry.
+
+      tracks:
+        - title: Improvisation on a Saturday Night After a Rainstorm
+          length: 4:38
+          mp3: https://archive.org/download/luv002/rainstorm.mp3
+
+    - cat_id: luv001
+      artist: Jonathon M.T. Roberts
+      title: Prayer
+      release_date: 2004-12-01
+      cover: https://archive.org/download/luv001/luv001large.jpg
+      about: For synthesizer and voice, with a remix by the Eviscerator Reanimator. 
+      credits: Scott Hawley, voice.
+
+      tracks:
+        - title: prayer
+          length: 5:14
+          mp3: https://archive.org/download/luv001/prayer01.mp3
+
+        - title: prayer (mom and pop remix by the eviscerator reanimator)
+          length: 2:04
+          mp3: https://archive.org/download/luv001/prayer02.mp3
+
+        - title: prayer (instrumental)
+          length: 4:51
+          mp3: https://archive.org/download/luv001/prayer03.mp3
+
+
